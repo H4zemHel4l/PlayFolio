@@ -1,0 +1,300 @@
+{
+  "Games": [
+    {
+      "id": 13537,
+      "name": "Death Stranding",
+      "released": "2019-11-08",
+      "tba": true,
+      "background_image": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg",
+      "rating": 4.33
+    },
+    {
+      "id": 274755,
+      "name": "Hades",
+      "released": "2020-09-17",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/1f4/1f47a270b8f241e4676b14d39ec620f7.jpg",
+      "rating": 4.45
+    },
+    {
+      "id": 51325,
+      "name": "The Last of Us Part II",
+      "released": "2020-06-19",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/909/909974d1c7863c2027241e265fe7011f.jpg",
+      "rating": 4.42
+    },
+    {
+      "id": 28199,
+      "name": "Ori and the Will of the Wisps",
+      "released": "2020-03-10",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/718/71891d2484a592d871e91dc826707e1c.jpg",
+      "rating": 4.47
+    },
+    {
+      "id": 58550,
+      "name": "Ghost of Tsushima",
+      "released": "2020-07-17",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/f24/f2493ea338fe7bd3c7d73750a85a0959.jpeg",
+      "rating": 4.45
+    },
+    {
+      "id": 397477,
+      "name": "Resident Evil 3",
+      "released": "2020-04-02",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/a4b/a4bb55f42fe837ae7bf1307e7b41cc85.jpg",
+      "rating": 4.02
+    },
+    {
+      "id": 704634,
+      "name": "Uncharted: Legacy of Thieves",
+      "released": "2022-01-28",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/de6/de66bc4c72b45c3bb906c85d0628112d.jpg",
+      "rating": 4.42
+    },
+    {
+      "id": 622492,
+      "name": "Forza Horizon 5",
+      "released": "2021-11-08",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/082/082365507ff04d456c700157072d35db.jpg",
+      "rating": 4.32
+    },
+    {
+      "id": 324997,
+      "name": "Baldur's Gate III",
+      "released": "2023-08-03",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+      "rating": 4.52
+    },
+    {
+      "id": 452642,
+      "name": "Horizon Forbidden West",
+      "released": "2022-02-18",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/bf7/bf73b105ccbba42107986bbcd96fcada.jpg",
+      "rating": 4.27
+    },
+    {
+      "id": 463723,
+      "name": "Far Cry 6",
+      "released": "2021-10-07",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/5dd/5dd4d2dd986d2826800bc37fff64aa4f.jpg",
+      "rating": 3.35
+    },
+    {
+      "id": 42442,
+      "name": "Marvel's Guardians of the Galaxy",
+      "released": "2021-10-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/708/7080e6c87e0825cb02888bf3c44b3889.jpg",
+      "rating": 4.33
+    },
+    {
+      "id": 5286,
+      "name": "tomb-raider",
+      "released": "2013-03-05",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+      "rating": 4.05
+    },
+    {
+      "id": 685577,
+      "name": "Vampire Survivors",
+      "released": "2022-10-20",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/501/501e7019925a3c692bf1c8062f07abe6.jpg",
+      "rating": 4.19
+    },
+    {
+      "id": 4062,
+      "name": "BioShock Infinite",
+      "released": "2013-03-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/fc1/fc1307a2774506b5bd65d7e8424664a7.jpg",
+      "rating": 4.38
+    },
+    {
+      "id": 58758,
+      "name": "Star Wars Jedi: Fallen Order",
+      "released": "2019-11-15",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/559/559bc0768f656ad0c63c54b80a82d680.jpg",
+      "rating": 4.14
+    },
+    {
+      "id": 58751,
+      "name": "Halo Infinite",
+      "released": "2021-12-08",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/e1f/e1ffbeb1bac25b19749ad285ca29e158.jpg",
+      "rating": 4.37
+    },
+    {
+      "id": 3498,
+      "name": "Grand Theft Auto V",
+      "released": "2013-09-17",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+      "rating": 4.47
+    },
+    {
+      "id": 906547,
+      "name": "Hogwarts Legacy",
+      "released": "2023-02-10",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/044/044b2ee023930ca138deda151f40c18c.jpg",
+      "rating": 3.96
+    },
+    {
+      "id": 452635,
+      "name": "Kena: Bridge of Spirits",
+      "released": "2021-09-21",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/91d/91ddeef8d5ebee7f21faa89efa0f2201.jpg",
+      "rating": 4.02
+    },
+    {
+      "id": 616697,
+      "name": "A Plague Tale: Requiem",
+      "released": "2022-10-17",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/cd0/cd074f3f6045297cda9ad077273c09b6.jpg",
+      "rating": 4.26
+    },
+    {
+      "id": 28,
+      "name": "Red Dead Redemption 2",
+      "released": "2018-10-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/511/5118aff5091cb3efec399c808f8c598f.jpg",
+      "rating": 4.59
+    },
+    {
+      "id": 290856,
+      "name": "Apex Legends",
+      "released": "2019-02-04",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/b72/b7233d5d5b1e75e86bb860ccc7aeca85.jpg",
+      "rating": 3.66
+    },
+    {
+      "id": 58812,
+      "name": "Control",
+      "released": "2019-08-27",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/253/2534a46f3da7fa7c315f1387515ca393.jpg",
+      "rating": 4.16
+    },
+    {
+      "id": 51329,
+      "name": "Shadow of the Tomb Raider",
+      "released": "2018-09-14",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/7f6/7f6cd70ba2ad57053b4847c13569f2d8.jpg",
+      "rating": 3.9
+    },
+    {
+      "id": 50734,
+      "name": "Sekiro: Shadows Die Twice",
+      "released": "2019-03-22",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/67f/67f62d1f062a6164f57575e0604ee9f6.jpg",
+      "rating": 4.38
+    },
+    {
+      "id": 58654,
+      "name": "Hitman 2",
+      "released": "2018-11-13",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/858/858c016de0cf7bc21a57dcc698a04a0c.jpg",
+      "rating": 4.03
+    },
+    {
+      "id": 59359,
+      "name": "A Plague Tale: Innocence",
+      "released": "2019-05-13",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/b4a/b4adf80c36e267b35acc3497ed2af19c.jpg",
+      "rating": 4.14
+    },
+    {
+      "id": 58755,
+      "name": "Devil May Cry 5",
+      "released": "2019-03-08",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/9fb/9fbf956a16249def7625ab5dc3d09515.jpg",
+      "rating": 4.24
+    },
+    {
+      "id": 29338,
+      "name": "Days Gone",
+      "released": "2019-04-26",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/a79/a79d2fc90c4dbf07a8580b19600fd61d.jpg",
+      "rating": 3.93
+    },
+    {
+      "id": 58753,
+      "name": "Forza Horizon 4",
+      "released": "2018-10-02",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/786/7863e587bac630de82fca50d799236a9.jpg",
+      "rating": 4.37
+    },
+    {
+      "id": 3328,
+      "name": "The Witcher 3: Wild Hunt",
+      "released": "2015-05-18",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+      "rating": 4.66
+    },
+    {
+      "id": 4200,
+      "name": "Portal 2",
+      "released": "2011-04-18",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/2ba/2bac0e87cf45e5b508f227d281c9252a.jpg",
+      "rating": 4.61
+    },
+    {
+      "id": 58175,
+      "name": "God of War (2018)",
+      "released": "2018-04-20",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/4be/4be6a6ad0364751a96229c56bf69be59.jpg",
+      "rating": 4.57
+    },
+    {
+      "id": 326243,
+      "name": "Elden Ring",
+      "released": "2022-02-25",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/b29/b294fdd866dcdb643e7bab370a552855.jpg",
+      "rating": 4.41
+    },
+    {
+      "id": 452638,
+      "name": "Stray",
+      "released": "2022-07-19",
+      "tba": false,
+      "background_image": "https://media.rawg.io/media/games/cd3/cd3c9c7d3e95cb1608fd6250f1b90b7a.jpg",
+      "rating": 4.15
+    },
+    {
+      "id": 906548,
+      "name": "Cyber Punk 2077",
+      "released": "2020-12-10",
+      "tba": false,
+      "background_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/cyberpunk-2077/1/16/Cyberpunk_2077_-_Chippin%27_In_2020-12-21_01-15-21.png?width=1024",
+      "rating": "4"
+    }
+  ]
+}
