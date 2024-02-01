@@ -1,0 +1,19 @@
+.blurred-table {
+    background-color: #1D2538;
+    color: white;
+    backdrop-filter: blur(10px);
+    padding: 20px;
+    font-size: 35px;
+}
+
+table {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+th, td {
+    padding: 10px;
+    margin-top: 20px;
+    text-align: left;
+}
