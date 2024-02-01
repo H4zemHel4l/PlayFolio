@@ -2,7 +2,8 @@
 
 Welcome to PlayFolio, a dynamic website to showcase your favourite games and their details. Manage your game collection effortlessly!
 
-![PlayFolio Screenshot](https://github.com/H4zemHel4l/PlayFolio/assets/110468386/71792fe5-0f1f-43ea-b50c-9c88f1e80e07)
+![image](https://github.com/hel4l/ITI-Project/assets/110468386/8bfd12e3-3a54-41e6-a372-0f49d843debd)
+
 
 ## Features
 
